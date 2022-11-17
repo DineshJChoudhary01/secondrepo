@@ -4,4 +4,8 @@ i am editing in second file
 
 hi dinesh this is new line i am created
 
+<<<<<<< HEAD
 new fourth line.
+=======
+hello everyone this is dinesh created  4th line 
+>>>>>>> 7c0023574fa588dc1e8d1eed180d1ef13561cdb6
